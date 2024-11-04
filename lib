@@ -1,0 +1,10 @@
+(root)
++- src # Groovy source files
+| +- org
+|   +- example
+|     +- Utility.groovy # Example class
++- vars
+| +- buildDockerImage.groovy # Example script
+| +- ciPipeline.groovy
++- resources # Additional resources like bash scripts and others
+  +- bash 
